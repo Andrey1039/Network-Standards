@@ -1,0 +1,23 @@
+c:\users\alexander\documents\visual studio 2010\Projects\NewWebService\NewWebService\bin\NewWebService.dll
+c:\users\alexander\documents\visual studio 2010\Projects\NewWebService\NewWebService\bin\NewWebService.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\NewWebService\NewWebService\obj\Debug\NewWebService.dll
+c:\users\alexander\documents\visual studio 2010\Projects\NewWebService\NewWebService\obj\Debug\NewWebService.pdb
+C:\Users\Alexander\Desktop\12345\New\NewWebService\NewWebService\bin\NewWebService.dll
+C:\Users\Alexander\Desktop\12345\New\NewWebService\NewWebService\bin\NewWebService.pdb
+C:\Users\Alexander\Desktop\12345\New\NewWebService\NewWebService\obj\Debug\NewWebService.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\12345\New\NewWebService\NewWebService\obj\Debug\NewWebService.dll
+C:\Users\Alexander\Desktop\12345\New\NewWebService\NewWebService\obj\Debug\NewWebService.pdb
+D:\ДНС\Рабочий стол\Web\NewWebService\NewWebService\bin\NewWebService.dll.config
+D:\ДНС\Рабочий стол\Web\NewWebService\NewWebService\bin\NewWebService.dll
+D:\ДНС\Рабочий стол\Web\NewWebService\NewWebService\bin\NewWebService.pdb
+D:\ДНС\Рабочий стол\Web\NewWebService\NewWebService\obj\Debug\NewWebService.csproj.AssemblyReference.cache
+D:\ДНС\Рабочий стол\Web\NewWebService\NewWebService\obj\Debug\NewWebService.csproj.CoreCompileInputs.cache
+D:\ДНС\Рабочий стол\Web\NewWebService\NewWebService\obj\Debug\NewWebService.dll
+D:\ДНС\Рабочий стол\Web\NewWebService\NewWebService\obj\Debug\NewWebService.pdb
+D:\ДНС\Универ\8 триместр\Технологии распределенных вычислений\Web\NewWebService\NewWebService\bin\NewWebService.dll.config
+D:\ДНС\Универ\8 триместр\Технологии распределенных вычислений\Web\NewWebService\NewWebService\bin\NewWebService.dll
+D:\ДНС\Универ\8 триместр\Технологии распределенных вычислений\Web\NewWebService\NewWebService\bin\NewWebService.pdb
+D:\ДНС\Универ\8 триместр\Технологии распределенных вычислений\Web\NewWebService\NewWebService\obj\Debug\NewWebService.csproj.AssemblyReference.cache
+D:\ДНС\Универ\8 триместр\Технологии распределенных вычислений\Web\NewWebService\NewWebService\obj\Debug\NewWebService.csproj.CoreCompileInputs.cache
+D:\ДНС\Универ\8 триместр\Технологии распределенных вычислений\Web\NewWebService\NewWebService\obj\Debug\NewWebService.dll
+D:\ДНС\Универ\8 триместр\Технологии распределенных вычислений\Web\NewWebService\NewWebService\obj\Debug\NewWebService.pdb
